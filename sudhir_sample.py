@@ -1,0 +1,1 @@
+print("This is sample.py from git")
