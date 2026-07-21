@@ -1,1 +1,1 @@
-print("just for fun")
+print("just for fun!")
