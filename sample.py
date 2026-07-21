@@ -1,2 +1,3 @@
 def sample():
-    print("hello user")
+    print("hello user welcome to app!")
+    print("gret to have you!")
