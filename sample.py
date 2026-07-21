@@ -1,2 +1,2 @@
 def sample():
-    print("hello world")
+    print("hello everyone!")
